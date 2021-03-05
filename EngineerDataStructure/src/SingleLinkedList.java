@@ -1,4 +1,4 @@
-	class Node{
+	class Node{//¥‹πÊ«‚
 		int data;
 		Node next = null;
 		Node(int d){
@@ -38,7 +38,7 @@
 
 
 
-public class LinkedList {
+public class SingleLinkedList {
 
 	public static void main(String[] args) {
 		Node head=new Node(1);
